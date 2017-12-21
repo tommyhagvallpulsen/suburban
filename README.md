@@ -1,7 +1,5 @@
 # suburban
-Establishing new focus areas and structure to accelerate innovation, change and development of future societies
-
-Defining new Focus Areas and Structure need to be defined for States , Societies and Individuals
+Establishing new focus areas and structure to accelerate innovation, change and to define new Focus Areas and Structure needed for its States , Societies and Individuals
 
 Why
 - Make any area great again
