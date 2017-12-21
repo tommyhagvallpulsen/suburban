@@ -4,9 +4,9 @@ Establishing new focus areas and structure to accelerate innovation, change and 
 Defining new Focus Areas and Structure need to be defined for States , Societies and Individuals
 
 What
-- The Focus Areas
-- The Structure
-- Shared Knowledge
+- Level 1 - The Focus Areas
+- Level 2 - The Structure
+- Level 3 - Shared Knowledge
 
 How 
 - Simplify important Focus Areas that matters
