@@ -10,7 +10,8 @@ Why
 - Build a co-creating future oriented mindset that involves people and individuals
 
 How 
-- Simplify important Focus Areas that matters
+- Simplify by defining the most important Focus Areas that matters
+- Structure the focus areas
 - Stimulate many new solution areas
 - Collective Intelligence of the many
 
