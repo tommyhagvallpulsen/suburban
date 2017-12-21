@@ -23,3 +23,11 @@ When
 - In 5 years -  Reference structure for new societies
 - In 10 years - Benchmarking dashboard KPIs
 - In 15 years - Structure for a society on Mars
+
+
+Why
+- Make any area great again
+- More Peace
+- More Human
+- More Balanced
+- Build a co-creating future oriented mindset that involves people and individuals
