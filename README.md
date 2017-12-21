@@ -35,3 +35,7 @@ Who
 - Tommy Hägvall - Vallentuna - Sweden
 - You ? - Please place Pull-request for changes 
 - To be open sourced ... and open for co-creation and innovative thinking
+
+
+More information:
+https://github.com/se37301/suburban/tree/master/Docs
