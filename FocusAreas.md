@@ -1,7 +1,17 @@
+
+Focus Areas 
+------------ | -------------
+Content from cell 1  
+Content in the first column  
+
 Focus Areas:
+
 01 - Living conditions
+
 02 - Abilities
+
 03 - Welfare
+
 04 - Dimensions of Diversity
 
 Living conditions:
