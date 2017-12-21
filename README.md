@@ -3,19 +3,22 @@ Establishing new focus areas and structure to accelerate innovation, change and 
 
 Defining new Focus Areas and Structure need to be defined for States , Societies and Individuals
 
-What
-- Level 1 - The Focus Areas
-- Level 2 - The Structure
-- Level 3 - Shared Knowledge
+Why
+- Make any area great again
+- More Peace
+- More Human
+- More Balanced
+- Build a co-creating future oriented mindset that involves people and individuals
 
 How 
 - Simplify important Focus Areas that matters
 - Stimulate many new solution areas
 - Collective Intelligence of the many
 
-Who
-- Tommy Hägvall - Vallentuna - Sweden
-- You ?
+What
+- Level 1 - The Focus Areas
+- Level 2 - The Structure
+- Level 3 - Shared Knowledge
 
 
 When
@@ -25,9 +28,7 @@ When
 - In 15 years - Structure for a society on Mars
 
 
-Why
-- Make any area great again
-- More Peace
-- More Human
-- More Balanced
-- Build a co-creating future oriented mindset that involves people and individuals
+Who
+- Tommy Hägvall - Vallentuna - Sweden
+- You ? - Please place Pull-request for changes 
+- To be open sourced ...
