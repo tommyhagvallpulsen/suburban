@@ -8,3 +8,13 @@ What
 - The Structure
 - Shared Knowledge
 
+How 
+- Simplify important Focus Areas that matters
+- Stimulate many new solution areas
+- Collective Intelligence of the many
+
+Who
+- Tommy Hägvall - Vallentuna - Sweden
+- You ?
+
+
