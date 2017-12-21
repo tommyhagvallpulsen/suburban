@@ -16,8 +16,7 @@ How
 - Collective Intelligence of the many
 
 
-![Image of Suburban Focus Areas]
-(https://github.com/se37301/suburban/blob/master/Docs/PNGs/F001.%20Focus%20Areas%20-%20Detailed.png)
+![Image of Suburban Focus Areas](https://github.com/se37301/suburban/blob/master/Docs/PNGs/F001.%20Focus%20Areas%20-%20Detailed.png)
 
 What
 - Level 1 - The Focus Areas
