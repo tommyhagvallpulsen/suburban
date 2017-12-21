@@ -287,9 +287,9 @@
         </child>
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="001. Focus Areas - Detailed" id="a7a7aac4-ab24-4b98-8170-1c796493a1ba">
-        <child xsi:type="archimate:DiagramObject" id="3c968dd6-8a95-4fc9-86cb-8a307091862c" targetConnections="4fb9c474-7f3a-4792-9c01-20a7cabeced2 2b546ed0-db2f-4471-85f7-fe5d7615649d 0d2332b0-4e47-4433-9575-8e06370e7f02" archimateElement="1a33917d-0bea-4fa1-af92-c2bcc889f0e9">
+        <child xsi:type="archimate:DiagramObject" id="3c968dd6-8a95-4fc9-86cb-8a307091862c" targetConnections="4fb9c474-7f3a-4792-9c01-20a7cabeced2 2b546ed0-db2f-4471-85f7-fe5d7615649d 0d2332b0-4e47-4433-9575-8e06370e7f02" fillColor="#ffff80" archimateElement="1a33917d-0bea-4fa1-af92-c2bcc889f0e9">
           <bounds x="60" y="60" width="385" height="566"/>
-          <child xsi:type="archimate:DiagramObject" id="b10debc8-b1d2-4510-8f37-fb8ba522a960" targetConnections="e2bd74da-1615-4676-b756-3be2252b9f96" textAlignment="1" fillColor="#ffff80" archimateElement="5d113a8b-6e43-4604-ae85-0850fdfa3440">
+          <child xsi:type="archimate:DiagramObject" id="b10debc8-b1d2-4510-8f37-fb8ba522a960" targetConnections="e2bd74da-1615-4676-b756-3be2252b9f96" textAlignment="1" fillColor="#ffffff" archimateElement="5d113a8b-6e43-4604-ae85-0850fdfa3440">
             <bounds x="12" y="24" width="361" height="133"/>
             <child xsi:type="archimate:DiagramObject" id="a68df62a-2a75-4d77-99ad-074ee7e6bb53" fillColor="#80ff80" archimateElement="c48c20ef-4597-4b17-ad8a-7e50eff14e38">
               <bounds x="12" y="24" width="169" height="28"/>
@@ -310,7 +310,7 @@
               <bounds x="192" y="60" width="157" height="28"/>
             </child>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="363ab50a-ae29-4e71-8352-038e32abf202" targetConnections="721392e0-c694-4384-a4af-ad41cbdc4da7" textAlignment="1" fillColor="#ffff80" archimateElement="7f1082fc-c7b3-4126-a04e-7bf582b057fb">
+          <child xsi:type="archimate:DiagramObject" id="363ab50a-ae29-4e71-8352-038e32abf202" targetConnections="721392e0-c694-4384-a4af-ad41cbdc4da7" textAlignment="1" fillColor="#ffffff" archimateElement="7f1082fc-c7b3-4126-a04e-7bf582b057fb">
             <bounds x="12" y="276" width="361" height="97"/>
             <child xsi:type="archimate:DiagramObject" id="021f85e1-3bde-4207-b136-5c4813aebc2e" fillColor="#80ff80" archimateElement="45854aaa-5f59-4745-8284-7d6c6b70951f">
               <bounds x="12" y="24" width="169" height="25"/>
@@ -325,7 +325,7 @@
               <bounds x="192" y="60" width="157" height="28"/>
             </child>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="569015f7-f787-4ee5-8a67-46a5a95e3804" textAlignment="1" fillColor="#ffff80" archimateElement="3840dc28-74db-451b-88ec-536d4c77178c">
+          <child xsi:type="archimate:DiagramObject" id="569015f7-f787-4ee5-8a67-46a5a95e3804" textAlignment="1" fillColor="#ffffff" archimateElement="3840dc28-74db-451b-88ec-536d4c77178c">
             <bounds x="12" y="168" width="360" height="97"/>
             <child xsi:type="archimate:DiagramObject" id="3dc028fd-6150-4ce7-94d1-378c45b6c6fe" fillColor="#80ff80" archimateElement="5a46019c-45e5-4787-9988-60779e124d1e">
               <bounds x="192" y="24" width="156" height="25"/>
@@ -340,7 +340,7 @@
               <bounds x="192" y="60" width="156" height="25"/>
             </child>
           </child>
-          <child xsi:type="archimate:DiagramObject" id="8c60e1b6-6244-4e88-8555-f77dc20b6448" targetConnections="f4b125e3-cce2-4a1e-8fa4-13b2cf244f4e" textAlignment="1" fillColor="#ffff80" archimateElement="acd0beae-880c-4989-a3f7-45cc59224ef4">
+          <child xsi:type="archimate:DiagramObject" id="8c60e1b6-6244-4e88-8555-f77dc20b6448" targetConnections="f4b125e3-cce2-4a1e-8fa4-13b2cf244f4e" textAlignment="1" fillColor="#ffffff" archimateElement="acd0beae-880c-4989-a3f7-45cc59224ef4">
             <bounds x="12" y="384" width="360" height="169"/>
             <child xsi:type="archimate:DiagramObject" id="a4fd39b4-71cf-4f01-8396-a9850df44f9f" fillColor="#80ff80" archimateElement="8c37046b-df31-47a5-82b4-d497ea0584da">
               <bounds x="192" y="24" width="157" height="28"/>
