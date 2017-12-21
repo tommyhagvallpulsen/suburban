@@ -3,7 +3,7 @@
 Defining new Focus Areas and the Structure needed for any Suburban area in relation to its States , Societies and Individuals
 
 Why
-- Make any area great again
+- Make any Suburban area great again
 - More Peace
 - More Human
 - More Balanced
