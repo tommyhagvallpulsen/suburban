@@ -2,13 +2,13 @@
 
 Defining new Focus Areas and the Structure needed for any Suburban area in relation to its States , Societies and Individuals
 
-# What
+### What
 - Level 1 - The Focus Areas
 - Level 2 - The Structure
 - Level 3 - Shared Knowledge
 ![Image of Suburban Focus Areas](https://github.com/se37301/suburban/blob/master/Docs/PNGs/F00.%20Focus%20Areas%20-%20Simplified.png)
 
-## How 
+### How 
 - Simplify by defining the most important Focus Areas that matters
 - Structure the focus areas
 - Stimulate many new solution areas
