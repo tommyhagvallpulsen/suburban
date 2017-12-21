@@ -21,7 +21,7 @@ What
 
 
 When
-- Now - Shared on Github -> will be Open Sourced in the future
+- Now - end of 2017 - Shared on Github -> will be Open Sourced in the future
 - In 5 years -  Reference structure for new societies
 - In 10 years - Benchmarking dashboard KPIs
 - In 15 years - Structure for a society on Mars
