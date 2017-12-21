@@ -75,7 +75,7 @@
   </folder>
   <folder name="Technology &amp; Physical" id="005b1ce3-06a5-4fb9-b07f-7fd410792634" type="technology"/>
   <folder name="Motivation" id="ed1d9825-330e-454b-879c-9a0c1d879a12" type="motivation">
-    <element xsi:type="archimate:Driver" name="Developing new Focus Areas and Structure needed for any area States , Societies and Individuals" id="10c0e71f-4ac1-4c38-b213-08e5c58d09ca"/>
+    <element xsi:type="archimate:Driver" name="Defining new Focus Areas and the Structure needed for any area in relation to its States , Societies and Individuals" id="10c0e71f-4ac1-4c38-b213-08e5c58d09ca"/>
     <element xsi:type="archimate:Assessment" name="Shared to friends" id="e877c974-690b-4cbb-932f-06cc83320331"/>
     <element xsi:type="archimate:Assessment" name="Shared to a business contacts" id="338ccb8b-fc3b-4bfb-89ab-8bb47d4dadf8"/>
     <element xsi:type="archimate:Assessment" name="Shared to a community" id="05767b9b-df55-4a0d-94ff-837bbb0e4d7f"/>
@@ -90,15 +90,15 @@
     <element xsi:type="archimate:Assessment" name="Simplification" id="cde54cb1-0199-443a-9d02-efc963deb341"/>
     <element xsi:type="archimate:Assessment" name="Evolving with changes" id="20788908-02db-4feb-88ea-b64c4eacfb8d"/>
     <element xsi:type="archimate:Assessment" name="Reusable" id="0a17197a-f122-4107-bec4-1ea51360933f"/>
-    <element xsi:type="archimate:Driver" name="Human" id="58e49320-4de6-4e77-be41-43ffcec7775d"/>
-    <element xsi:type="archimate:Driver" name="Peace" id="a7fa4667-c3e5-4970-aaba-46904968f4cc"/>
-    <element xsi:type="archimate:Driver" name="Balanced" id="a557ab2b-12c0-4ac4-886a-ff9c72ca46d2"/>
+    <element xsi:type="archimate:Driver" name="More Human" id="58e49320-4de6-4e77-be41-43ffcec7775d"/>
+    <element xsi:type="archimate:Driver" name="More Peace" id="a7fa4667-c3e5-4970-aaba-46904968f4cc"/>
+    <element xsi:type="archimate:Driver" name="More Balanced" id="a557ab2b-12c0-4ac4-886a-ff9c72ca46d2"/>
     <element xsi:type="archimate:Driver" name="Make Earth great again" id="5336a8df-4c75-4f67-9144-235dbfb7dcaa"/>
     <element xsi:type="archimate:Driver" name="Make any area great again" id="c65cfee7-a48a-4f60-8343-3a9856704804"/>
     <element xsi:type="archimate:Assessment" name="Establish new focus areas and structure to accelerate innovation, change and development of future societies" id="d3b4c07d-3b7f-4d1b-af99-2288d2d6bf7e"/>
     <element xsi:type="archimate:Requirement" name="Build it right from the start" id="7cacf8df-49c9-4bab-ab58-981ed9b3c904"/>
-    <element xsi:type="archimate:Requirement" name="Inclusive for All Mankind" id="b4ecd440-aba4-46a2-8175-60444a29fc04"/>
-    <element xsi:type="archimate:Requirement" name="Diversity" id="69c3937b-0397-41d4-a435-b040f21353e3"/>
+    <element xsi:type="archimate:Requirement" name="Inclusive for All" id="b4ecd440-aba4-46a2-8175-60444a29fc04"/>
+    <element xsi:type="archimate:Requirement" name="Respecting Diversity" id="69c3937b-0397-41d4-a435-b040f21353e3"/>
     <element xsi:type="archimate:Requirement" name="Open Source" id="a5fcc604-36b2-4234-889c-d5edc6ccfec1"/>
     <element xsi:type="archimate:Requirement" name="Complementing existing National State" id="1b8e1a5a-44b8-49d0-b868-c4159c9dc827"/>
     <element xsi:type="archimate:Requirement" name="Generic reusable and sharing approach" id="17234621-bf6c-4ba7-8cbe-98070665b7ee"/>
@@ -118,7 +118,7 @@
     <element xsi:type="archimate:Requirement" name="Plenty of differences and attitudes " id="f0c4bbd6-a96d-4978-82d9-8eaf31866fe1"/>
     <element xsi:type="archimate:Assessment" name="Priority and focus changed regularly" id="baa9c5b2-7363-437e-98e7-06bfd3087755"/>
     <element xsi:type="archimate:Driver" name="Structure for a Mars based society" id="245074d6-abdd-4804-ba66-c6d37f44a25a"/>
-    <element xsi:type="archimate:Assessment" name="Suburb" id="196f6d41-1c33-4cdd-a114-c993e26c801f"/>
+    <element xsi:type="archimate:Assessment" name="Suburb to Stockholm" id="196f6d41-1c33-4cdd-a114-c993e26c801f"/>
     <element xsi:type="archimate:Constraint" name="Grouping and segmenting classifications for Digitalization enablement" id="62258c25-36b3-4170-81d0-2995bc3ff642"/>
     <element xsi:type="archimate:Principle" name="Include all Anti-patterns and establish a common ground for all diversities" id="18e56126-d24f-49c0-ab50-372b468043a8"/>
     <element xsi:type="archimate:Principle" name="Challenges and areas for Debates" id="5aae4358-bd03-49fa-9854-6abbab376901"/>
@@ -495,7 +495,7 @@
           <content>Dimensions of Diversity</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="b352ac3c-c1cf-4b2f-8b10-94bc41a1dea9" textAlignment="1" fillColor="#ffff80" archimateElement="acd0beae-880c-4989-a3f7-45cc59224ef4">
-          <bounds x="-30" y="143" width="360" height="169"/>
+          <bounds x="-48" y="72" width="360" height="169"/>
           <child xsi:type="archimate:DiagramObject" id="dc927a98-6831-4cd8-8cdc-1685a153cf31" fillColor="#80ff80" archimateElement="8c37046b-df31-47a5-82b4-d497ea0584da">
             <bounds x="192" y="24" width="157" height="28"/>
           </child>
@@ -702,7 +702,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="3fe228e2-e74f-410e-a659-4d4b76662d8f" source="1991f610-f28e-4e1d-97cc-c13ae37d5b81" target="b04abbd3-8061-4dbe-8f59-963bfef4d1cc" archimateRelationship="9865930e-f7ec-4a62-8a2a-b9f0d28e7f80"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="907af82f-fb45-4885-9c90-aa7237a6925d" targetConnections="23486295-1632-4c74-b6c8-0b82e439d09c" fillColor="#ff80ff" archimateElement="10c0e71f-4ac1-4c38-b213-08e5c58d09ca">
-        <bounds x="242" y="150" width="150" height="106"/>
+        <bounds x="242" y="150" width="150" height="127"/>
         <sourceConnection xsi:type="archimate:Connection" id="552927ce-bbdd-446a-9cb8-3ba604d950f9" source="907af82f-fb45-4885-9c90-aa7237a6925d" target="8559f944-3cae-4dd6-a3eb-1a6f86eaf167" archimateRelationship="47a2ac7a-94fe-4fa7-be80-4c699ca7f9aa"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="754a7e8f-d48e-409f-b24d-582eb3e68637" targetConnections="e09f68a8-4f86-4759-91f2-0ba7610edea6" archimateElement="ffb39083-e59a-4507-bc93-1dbea6b64978">
@@ -817,7 +817,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="e09f68a8-4f86-4759-91f2-0ba7610edea6" source="0920c972-c007-450a-b9f3-e31f2a602411" target="754a7e8f-d48e-409f-b24d-582eb3e68637" archimateRelationship="e4ec3b4e-bcd9-48a2-a3f3-dddf00283df8"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="986175dc-e426-4aec-8bd5-cfff1a678b89" archimateElement="196f6d41-1c33-4cdd-a114-c993e26c801f">
-        <bounds x="720" y="94" width="120" height="36"/>
+        <bounds x="720" y="94" width="120" height="57"/>
         <sourceConnection xsi:type="archimate:Connection" id="9c1f51fe-24db-4840-a573-e70f4144bd68" source="986175dc-e426-4aec-8bd5-cfff1a678b89" target="f9d8e8af-5f1b-4ee5-a781-07e6983f6bd8" archimateRelationship="df6e5fd0-9eb4-47ac-ac83-efb9cb5138c4"/>
       </child>
       <child xsi:type="archimate:DiagramModelReference" id="04b9dfa7-6c1d-49ca-8f93-cd2e1cd4fb1f" model="8f01e50a-494c-4604-9ebb-dc9554f85249">
