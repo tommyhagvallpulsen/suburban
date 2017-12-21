@@ -1,6 +1,6 @@
 # suburban
 
-Defining new Focus Areas and the Structure needed for any area in relation to its States , Societies and Individuals
+Defining new Focus Areas and the Structure needed for any Suburban area in relation to its States , Societies and Individuals
 
 Why
 - Make any area great again
@@ -30,4 +30,4 @@ When
 Who
 - Tommy Hägvall - Vallentuna - Sweden
 - You ? - Please place Pull-request for changes 
-- To be open sourced ...
+- To be open sourced ... and open for co-creation and innovative thinking
