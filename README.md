@@ -15,6 +15,9 @@ How
 - Stimulate many new solution areas
 - Collective Intelligence of the many
 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 What
 - Level 1 - The Focus Areas
 - Level 2 - The Structure
