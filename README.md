@@ -3,6 +3,9 @@
 Defining new Focus Areas and the Structure needed for any Suburban area in relation to its States , Societies and Individuals
 Suburban is a Distributed Open Source framework for mankind
 
+https://github.com/se37301/suburban/blob/master/FocusAreas.md
+
+
 
 ### What
 - Level 1 - The Focus Areas
