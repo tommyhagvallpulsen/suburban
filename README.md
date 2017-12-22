@@ -1,6 +1,8 @@
 # suburban
 
 Defining new Focus Areas and the Structure needed for any Suburban area in relation to its States , Societies and Individuals
+Suburban is a Distributed Open Source framework for mankind
+
 
 ### What
 - Level 1 - The Focus Areas
@@ -19,13 +21,15 @@ Defining new Focus Areas and the Structure needed for any Suburban area in relat
 
 ### Why
 - Make any Suburban area great again
-- More Peace
-- More Human
-- More Balanced
+- More Peaceful
+- More Humanistic
+- More Balancing opposite forces
+- Include all citizens
 - Build a co-creating future oriented mindset that involves people and individuals
 
 ### When
 - Now - end of 2017 - Shared on Github -> will be Open Sourced in the future
+- Now - Common Creative License
 - In 5 years -  Reference structure for new societies
 - In 10 years - Benchmarking dashboard KPIs
 - In 15 years - Structure for a society on Mars
@@ -36,6 +40,13 @@ Defining new Focus Areas and the Structure needed for any Suburban area in relat
 - You ? - Please place Pull-request for changes 
 - To be open sourced ... and open for co-creation and innovative thinking
 
+![Image of Suburban Common Creative License](
+https://camo.githubusercontent.com/005cfe27b7c4520ac0d6b607d6a7e33f5ad4eb6e/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f342e302f38387833312e706e67
+) 
+
+Suburban by Tommy Hägvall is licensed under a Creative Commons Attribution 4.0 International License.
+Based on a work at https://github.com/se37301/suburban.
+Permissions beyond the scope of this license may be available at https://github.com/se37301/suburban
 
 More information:
 https://github.com/se37301/suburban/tree/master/Docs
