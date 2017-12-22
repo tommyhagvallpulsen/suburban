@@ -1,7 +1,7 @@
 ### Level 1
 
 | |Focus Areas  |
-------------  |
+------------  |------------  |
 A|01 - Living conditions|
 B|02 - Abilities|
 C|03- Welfare|
