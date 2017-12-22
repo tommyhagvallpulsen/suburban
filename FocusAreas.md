@@ -1,11 +1,11 @@
 ### Level 1
 
-Focus Areas  |
+| |Focus Areas  |
 ------------  |
-A - Living conditions|
-B - Abilities|
-C - Welfare|
-D - Dimensions of Diversity|
+A|01 - Living conditions|
+B|02 - Abilities|
+C|03- Welfare|
+D|04 - Dimensions of Diversity|
 
 ### Level 2
 Living conditions |
