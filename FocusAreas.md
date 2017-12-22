@@ -2,10 +2,10 @@
 
 Focus Areas  |
 ------------  |
-01 - Living conditions|
-02 - Abilities|
-03 - Welfare|
-04 - Dimensions of Diversity|
+A - Living conditions|
+B - Abilities|
+C - Welfare|
+D - Dimensions of Diversity|
 
 ### Level 2
 Living conditions |
