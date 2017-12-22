@@ -1,3 +1,4 @@
+### Level 1
 
 Focus Areas  |
 ------------  |
@@ -6,6 +7,7 @@ Focus Areas  |
 03 - Welfare|
 04 - Dimensions of Diversity|
 
+### Level 2
 Living conditions |
 ------------  |
 01 - Safety|
