@@ -1,17 +1,9 @@
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2 
-
-
-Focus Areas:
-
+Focus Areas  
+------------  
 01 - Living conditions
-
 02 - Abilities
-
 03 - Welfare
-
 04 - Dimensions of Diversity
 
 Living conditions:
