@@ -45,11 +45,11 @@ D - Dimensions of Diversity  |
 
 A - Living conditions | B - Abilities  |  C - Welfare  |  D - Dimensions of Diversity  |
 ------------  |  ------------  |  ------------  |  ------------  |
-01 - Education | x2 | x3 | 01 - Values Morality Ethics| 01 - Education | 01 - Health |
-02 - Security | x2 | x3 |02 - Age|
-03 - Justice | x2 | x3 |03 - Religion|
-04 - Liberty of Speech | x2 | x3 |04 - Culture|
-05 - Identity | x2 | x3 |05 - History|
-06 - Environment | x2 | x3 |06 - Language|
- |  | x2 | x3 |07 - Etnicity|
- |  | x2 | x3 |08 - Sexuality|
+01 - Education | 01 - Education | x3 | 01 - Values Morality Ethics| 01 - Education | 01 - Health |
+02 - Security | 02 - Services | x3 |02 - Age|
+03 - Justice | 03 - Function | x3 |03 - Religion|
+04 - Liberty of Speech | 04 - Infrastructure | x3 |04 - Culture|
+05 - Identity |   | x3 |05 - History|
+06 - Environment |   | x3 |06 - Language|
+ |  |   | x3 |07 - Etnicity|
+ |  |   | x3 |08 - Sexuality|
