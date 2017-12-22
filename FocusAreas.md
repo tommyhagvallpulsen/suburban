@@ -6,8 +6,8 @@ Focus Areas  |
 03 - Welfare|
 04 - Dimensions of Diversity|
 
-Living conditions |x2|x3|x4|
-------------  |------------|------------|------------4|
+Living conditions | x2  |  x3  |  x4  |
+------------  |  ------------  |  ------------  |  ------------  |
 01 - Safety|x2|x3|x4|
 02 - Security|x2|x3|x4|
 03 - Justice|x2|x3|x4|
