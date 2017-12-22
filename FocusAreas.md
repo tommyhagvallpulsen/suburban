@@ -24,7 +24,7 @@ Abilities  |
 03 - Function|
 04 - Infrastructure|
 
-Welfare:
+Welfare  |
 ------------  |
 01 - Health
 02 - Economy
@@ -43,7 +43,7 @@ Dimensions of Diversity  |
 08 - Sexuality|
 
 
-Living conditions | x2  |  x3  |  x4  |
+Living conditions | Abilities  |  Welfare  |  Dimensions of Diversity  |
 ------------  |  ------------  |  ------------  |  ------------  |
 01 - Safety|x2|x3|x4|
 02 - Security|x2|x3|x4|
