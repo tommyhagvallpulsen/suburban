@@ -6,14 +6,14 @@ Focus Areas  |
 03 - Welfare|
 04 - Dimensions of Diversity|
 
-Living conditions |
-------------  |
-01 - Safety|
-02 - Security|
-03 - Justice|
-04 - Liberty of Speech|
-05 - Identity|
-06 - Environment|
+Living conditions |x2|x3|x4|
+------------  |x2|x3|x4|
+01 - Safety|x2|x3|x4|
+02 - Security|x2|x3|x4|
+03 - Justice|x2|x3|x4|
+04 - Liberty of Speech|x2|x3|x4|
+05 - Identity|x2|x3|x4|x2|x3|x4|
+06 - Environment|x2|x3|x4|
 
 Abilities  |
 ------------  |
