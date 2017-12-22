@@ -45,7 +45,7 @@ D - Dimensions of Diversity  |
 
 A - Living conditions | B - Abilities  |  C - Welfare  |  D - Dimensions of Diversity  |
 ------------  |  ------------  |  ------------  |  ------------  |
-01 - Education | 01 - Education | x3 | 01 - Values Morality Ethics| 01 - Education | 01 - Health |
+01 - Safety | 01 - Education | x3 | 01 - Values Morality Ethics| 01 - Education | 01 - Health |
 02 - Security | 02 - Services | x3 |02 - Age|
 03 - Justice | 03 - Function | x3 |03 - Religion|
 04 - Liberty of Speech | 04 - Infrastructure | x3 |04 - Culture|
