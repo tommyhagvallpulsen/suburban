@@ -51,5 +51,5 @@ Living conditions | Abilities  |  Welfare  |  Dimensions of Diversity  |
 04 - Liberty of Speech | x2 | x3 |04 - Culture|
 05 - Identity | x2 | x3 |05 - History|
 06 - Environment | x2 | x3 |06 - Language|
- -  | x2 | x3 |07 - Etnicity|
- - | x2 | x3 |08 - Sexuality|
+ |-  | x2 | x3 |07 - Etnicity|
+ |- | x2 | x3 |08 - Sexuality|
