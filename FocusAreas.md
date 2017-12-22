@@ -8,7 +8,7 @@ C|03- Welfare|
 D|04 - Dimensions of Diversity|
 
 ### Level 2
-Living conditions |
+A - Living conditions |
 ------------  |
 01 - Safety|
 02 - Security|
@@ -17,21 +17,21 @@ Living conditions |
 05 - Identity|
 06 - Environment|
 
-Abilities  |
+B - Abilities  |
 ------------  |
 01 - Education|
 02 - Services|
 03 - Function|
 04 - Infrastructure|
 
-Welfare  |
+C - Welfare  |
 ------------  |
 01 - Health
 02 - Economy
 03 - Employment
 04 - Knowledge
 
-Dimensions of Diversity  |
+D - Dimensions of Diversity  |
 ------------  |
 01 - Values Morality Ethics|
 02 - Age|
@@ -43,7 +43,7 @@ Dimensions of Diversity  |
 08 - Sexuality|
 
 
-Living conditions | Abilities  |  Welfare  |  Dimensions of Diversity  |
+A - Living conditions | B - Abilities  |  C - Welfare  |  D - Dimensions of Diversity  |
 ------------  |  ------------  |  ------------  |  ------------  |
 01 - Education | x2 | x3 | 01 - Values Morality Ethics| 01 - Education | 01 - Health |
 02 - Security | x2 | x3 |02 - Age|
