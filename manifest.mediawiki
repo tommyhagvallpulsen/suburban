@@ -1,0 +1,14 @@
+<pre>
+  DEF: 1
+  Title: The Social Smart Contract
+  Author: @DemocracyEarth.
+  Comments-Summary: No comments yet.
+  Status: Active
+  Type: Paper
+  Created: 2017-07-14
+  License: MIT
+  Replaces: 0
+</pre>
+
+=The Social Smart Contract.=
+An Initial Rights Offering from [http://democracy.earth Democracy Earth Foundation].
