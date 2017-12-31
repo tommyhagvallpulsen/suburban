@@ -26,11 +26,8 @@ An Initial Rights Offering from [https://github.com/se37301/suburban].
 
 
 
-==1. Manifesto.==
+==1. Manifest.==
 
+Manifest text
 
-==ii. Abstract.2==
-
-
-===ii. Abstract.3===
 
