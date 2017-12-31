@@ -42,7 +42,7 @@ Level 3 - Shared Knowledge
 ====1.1 The Focus Areas.====
 
 Need to define a list of important focus areas that matters for society
-=====1.1 A - Living Conditions.=====
+=====1.1 A - <code>Living Conditions</code>=====
 Living Conditions text
 
 
