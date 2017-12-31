@@ -35,3 +35,7 @@ What text
 <div id="Why"></div>
 ==2. Why.==
 Why text
+
+<div id="How"></div>
+==3. How.==
+How text
