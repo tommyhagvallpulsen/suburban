@@ -34,11 +34,12 @@ Defining new Focus Areas and the Structure needed for any Suburban area in relat
 
 ==1. What.==
 
+===1.1 The Components.===
 Level 1 - The Focus Areas
 Level 2 - The Structure
 Level 3 - Shared Knowledge 
 
-===1.1 The Focus Areas.===
+====1.1 The Focus Areas.====
 
 Focus area text
 
