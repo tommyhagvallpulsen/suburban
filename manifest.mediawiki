@@ -6,7 +6,7 @@
   Status: Active
   Type: Paper
   Created: 2017-12-31
-  License: CCL4
+  License: Creative Commons Attribution 4.0 International License
   Replaces: 0
 </pre>
 
