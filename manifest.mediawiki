@@ -20,9 +20,9 @@ An Initial Rights Offering from [https://github.com/se37301/suburban].
 
 ==ii. Background==
 
-* [[#Manifesto|Manifesto]]: For idealists. Diagnoses global political context and argues for a paradigm change.
+* [[#Manifest|Manifest]]: For idealists. Diagnoses global political context and argues for a paradigm change.
 
-<div id="Manifesto"></div>
+<div id="Manifest"></div>
 
 
 
