@@ -16,6 +16,10 @@ An Initial Rights Offering from [https://github.com/se37301/suburban].
 
 ==i. Abstract.==
 
+==ii. Abstract.2==
+
+==ii. Abstract.2==
+
 * [[#Manifesto|Manifesto]]: For idealists. Diagnoses global political context and argues for a paradigm change.
 
 <div id="Manifesto"></div>
