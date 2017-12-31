@@ -8,7 +8,7 @@ Suburban is a Distributed Open Source framework for mankind
 https://github.com/se37301/suburban/blob/master/FocusAreas.md
 
 ### Summary of Suburban
-A - Living conditions | B - Abilities  |  C - Welfare  |  D - Dimensions of Diversity  |
+A - Living conditions | B - Abilities  |  C - Welfare  |  D - Diversities  |
 ------------  |  ------------  |  ------------  |  ------------  |
 01 - Safety | 01 - Education | 01 - Health | 01 - Values Morality Ethics| 01 - Education | 01 - Health |
 02 - Security | 02 - Services | 02 - Economy |02 - Age|
