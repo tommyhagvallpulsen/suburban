@@ -40,6 +40,12 @@ Level 1 - The Structure
 Level 2 - The Focus Areas
 Level 3 - Shared Knowledge 
 
+====1.1.1 The Structure.====
+Structure text
+
+Major focus area
+Sub focus area
+
 ====1.1.2 The Focus Areas.====
 
 Need to define a list of important focus areas that matters for society
@@ -54,9 +60,6 @@ Welfare text
 
 =====1.1.2.1 D - <code>Diversities</code>=====
 Diversities text
-
-====1.1.1 The Structure.====
-Structure text
 
 
 <div id="Why"></div>
