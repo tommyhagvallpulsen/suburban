@@ -34,7 +34,9 @@ Defining new Focus Areas and the Structure needed for any Suburban area in relat
 
 ==1. What.==
 
-What text
+Level 1 - The Focus Areas
+Level 2 - The Structure
+Level 3 - Shared Knowledge 
 
 <div id="Why"></div>
 ==2. Why.==
