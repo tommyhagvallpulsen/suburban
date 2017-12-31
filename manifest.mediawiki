@@ -18,16 +18,18 @@ An Initial Rights Offering from [https://github.com/se37301/suburban].
 
 ==ii. Contents==
 
+* [[#What|What]]: Explaining What. The text describing the what.
+
 ==ii. Background==
 
-* [[#Manifest|Manifest]]: For idealists. Diagnoses global political context and argues for a paradigm change.
+
 
 <div id="Manifest"></div>
 
 
 
-==1. Manifest.==
+==1. What.==
 
-Manifest text
+What text
 
 
