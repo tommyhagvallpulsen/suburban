@@ -1,14 +1,14 @@
 <pre>
   DEF: 1
-  Title: The Social Smart Contract
-  Author: @DemocracyEarth.
+  Title: Suburban
+  Author: @Suburban.
   Comments-Summary: No comments yet.
   Status: Active
   Type: Paper
-  Created: 2017-07-14
-  License: MIT
+  Created: 2017-12-31
+  License: CCL4
   Replaces: 0
 </pre>
 
-=The Social Smart Contract.=
-An Initial Rights Offering from [http://democracy.earth Democracy Earth Foundation].
+=Urban to the rescue.=
+An Initial Rights Offering from [https://github.com/se37301/suburban].
