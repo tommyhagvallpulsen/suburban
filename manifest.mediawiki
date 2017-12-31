@@ -32,7 +32,7 @@ Defining new Focus Areas and the Structure needed for any Suburban area in relat
 | 05 - Identity |   |   |05 - History|
 | 06 - Environment |   |   |06 - Language|
 |  |  |   |   |07 - Etnicity|
-|  |  |   |   |08 - Sexuality|
+|  |  |   |   |08 - Sexuality
 |}
 
 ==ii. Contents==
