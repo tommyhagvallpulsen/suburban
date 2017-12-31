@@ -45,8 +45,6 @@ Defining new Focus Areas and the Structure needed for any Suburban area in relat
 | Time (information).
 |}
 
- 
-
 ==ii. Contents==
 
 * [[#What|What]]: Explaining What. The text describing the what.
