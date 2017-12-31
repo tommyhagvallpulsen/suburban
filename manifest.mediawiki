@@ -20,9 +20,9 @@ Defining new Focus Areas and the Structure needed for any Suburban area in relat
 
 {| class="wikitable"
 |-
-! scope="col"| A - Living Conditions
-! scope="col"| Coins
-! scope="col"| Votes
+| A - Living Conditions
+| Coins
+| Votes
 |-
 | Utility
 | Trade.
