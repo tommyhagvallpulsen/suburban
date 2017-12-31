@@ -1,3 +1,13 @@
+==i. Abstract.==
+
+* [[#Manifesto|Manifesto]]: For idealists. Diagnoses global political context and argues for a paradigm change.
+
+<div id="Manifesto"></div>
+
+
+
+==1. Manifesto.==
+
 ### Level 1
 
 | |Focus Areas  |
