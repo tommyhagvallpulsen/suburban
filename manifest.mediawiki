@@ -18,29 +18,6 @@ xx mankind [https://github.com/se37301/suburban].
 
 Defining new Focus Areas and the Structure needed for any Suburban area in relation to its States , Societies and Individuals.
 
-{| class="wikitable"
-|-
-! scope="col"| A - Living Conditions
-! scope="col"| B - Abilities
-! scope="col"| C - Welfare
-! scope="col"| D - Diversities
--
-| 01 - Safety | 01 - Education | 01 - Health | 01 - Values Morality Ethics| 01 - Education | 01 - Health 
-| 02 - Security | 02 - Services | 02 - Economy |02 - Age
-|-
-| 03 - Justice | 03 - Function | 03 - Employment |03 - Religion
-|-
-| 04 - Liberty of Speech | 04 - Infrastructure | 04 - Knowledge |04 - Culture
-|-
-| 05 - Identity |   |   |05 - History
-|-
-| 06 - Environment |   |   |06 - Language
-|-
-|  |  |   |   |07 - Etnicity
-|-
-|  |  |   |   |08 - Sexuality
-|-
-|}
 
 ==ii. Contents==
 
@@ -59,27 +36,28 @@ Defining new Focus Areas and the Structure needed for any Suburban area in relat
 ==1. What.==
 
 ===1.1 The Components.===
-Level 1 - The Focus Areas
-Level 2 - The Structure
+Level 1 - The Structure
+Level 2 - The Focus Areas
 Level 3 - Shared Knowledge 
 
-====1.1.1 The Focus Areas.====
+====1.1.2 The Focus Areas.====
 
 Need to define a list of important focus areas that matters for society
-=====1.1.1.1 A - <code>Living Conditions</code>=====
+=====1.1.2.1 A - <code>Living Conditions</code>=====
 Living Conditions text
 
-=====1.1.1.1 B - <code>Abilities</code>=====
+=====1.1.2.1 B - <code>Abilities</code>=====
 Abilities text
 
-=====1.1.1.1 C - <code>Welfare</code>=====
+=====1.1.2.1 C - <code>Welfare</code>=====
 Welfare text
 
-=====1.1.1.1 D - <code>Diversities</code>=====
+=====1.1.2.1 D - <code>Diversities</code>=====
 Diversities text
 
-====1.1.2 The Structure.====
+====1.1.1 The Structure.====
 Structure text
+
 
 <div id="Why"></div>
 ==2. Why.==
