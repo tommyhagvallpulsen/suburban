@@ -20,6 +20,7 @@ Defining new Focus Areas and the Structure needed for any Suburban area in relat
 
 {| class="wikitable"
 |-
+|
 ! scope="col"| A - Living Conditions
 ! scope="col"| B - Abilities
 ! scope="col"| C - Welfare
