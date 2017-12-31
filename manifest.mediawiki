@@ -18,16 +18,10 @@ xx mankind [https://github.com/se37301/suburban].
 
 Defining new Focus Areas and the Structure needed for any Suburban area in relation to its States , Societies and Individuals.
 
-A - Living conditions | B - Abilities  |  C - Welfare  |  D - Diversities  |
-------------  |  ------------  |  ------------  |  ------------  |
-01 - Safety | 01 - Education | 01 - Health | 01 - Values Morality Ethics| 01 - Education | 01 - Health |
-02 - Security | 02 - Services | 02 - Economy |02 - Age|
-03 - Justice | 03 - Function | 03 - Employment |03 - Religion|
-04 - Liberty of Speech | 04 - Infrastructure | 04 - Knowledge |04 - Culture|
-05 - Identity |   |   |05 - History|
-06 - Environment |   |   |06 - Language|
- |  |   |   |07 - Etnicity|
- |  |   |   |08 - Sexuality|
+A - Living conditions | B - Abilities  |
+------------  |  ------------  |
+
+ 
 
 ==ii. Contents==
 
