@@ -18,8 +18,32 @@ xx mankind [https://github.com/se37301/suburban].
 
 Defining new Focus Areas and the Structure needed for any Suburban area in relation to its States , Societies and Individuals.
 
-A - Living conditions | B - Abilities  |
-------------  |  ------------  |
+{| class="wikitable"
+|-
+! scope="col"| A - Living Conditions
+! scope="col"| Coins
+! scope="col"| Votes
+|-
+! scope="row"| Utility
+| Trade.
+| Governance.
+|-
+! scope="row"| Mining
+| Computation (e.g. Proof of Work).
+| Attention (e.g. Proof of Identity).
+|-
+! scope="row"| Liquidity
+| Scarce.
+| Guaranteed.
+|-
+! scope="row"| Signal
+| Self interest.
+| Social choice.
+|-
+! scope="row"| Value
+| Space (material goods).
+| Time (information).
+|}
 
  
 
