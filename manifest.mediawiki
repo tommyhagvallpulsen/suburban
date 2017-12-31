@@ -45,6 +45,10 @@ Need to define a list of important focus areas that matters for society
 =====1.1 A - <code>Living Conditions</code>=====
 Living Conditions text
 
+=====1.1 A - <code>Abilities</code>=====
+Abilities text
+
+
 
 <div id="Why"></div>
 ==2. Why.==
