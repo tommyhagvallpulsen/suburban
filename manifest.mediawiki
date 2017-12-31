@@ -11,7 +11,7 @@
 </pre>
 
 =Suburban to the rescue.=
- Suburban is a Distributed Open Source framework for Societies and and a contract to mankind [https://github.com/se37301/suburban].
+xx mankind [https://github.com/se37301/suburban].
 
 
 ==i. Abstract.==
