@@ -24,8 +24,8 @@ Defining new Focus Areas and the Structure needed for any Suburban area in relat
 ! scope="col"| B - Abilities
 ! scope="col"| C - Welfare
 ! scope="col"| D - Diversities
-| 01 - Safety | 01 - Education | 01 - Health | 01 - Values Morality Ethics| 01 - Education | 01 - Health 
 |-
+| 01 - Safety | 01 - Education | 01 - Health | 01 - Values Morality Ethics| 01 - Education | 01 - Health 
 | 02 - Security | 02 - Services | 02 - Economy |02 - Age|
 |-
 | 03 - Justice | 03 - Function | 03 - Employment |03 - Religion|
