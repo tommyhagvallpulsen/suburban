@@ -33,7 +33,5 @@ Some initial abstract text
 What text
 
 <div id="Why"></div>
-
 ==2. Why.==
-
 Why text
