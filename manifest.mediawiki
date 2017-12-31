@@ -27,7 +27,7 @@ Defining new Focus Areas and the Structure needed for any Suburban area in relat
 |-
 | Utility| Trade.| Governance.
 |-
-! scope="row"| Mining
+| Mining
 | Computation (e.g. Proof of Work).
 | Attention (e.g. Proof of Identity).
 |-
