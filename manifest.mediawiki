@@ -15,7 +15,7 @@ An Initial Rights Offering from [https://github.com/se37301/suburban].
 
 
 ==i. Abstract.==
-Some initial abstract text
+Defining new Focus Areas and the Structure needed for any Suburban area in relation to its States , Societies and Individuals Suburban is a Distributed Open Source framework for mankind
 
 ==ii. Contents==
 
