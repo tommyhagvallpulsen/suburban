@@ -38,6 +38,11 @@ Level 1 - The Focus Areas
 Level 2 - The Structure
 Level 3 - Shared Knowledge 
 
+===1.1 The Focus Areas.===
+
+Focus area text
+
+
 <div id="Why"></div>
 ==2. Why.==
 Why text
