@@ -21,6 +21,9 @@ Some initial abstract text
 
 * [[#What|What]]: Explaining What. The text describing the what.
 * [[#Why|Why]]: Explaining Why. The text describing the why.
+* [[#How|How]]: Explaining How. The text describing the how.
+* [[#When|When]]: Explaining When. The text describing the when.
+* [[#Who|Who]]: Explaining Who. The text describing the who.
 
 ==ii. Background==
 
@@ -43,3 +46,7 @@ How text
 <div id="When"></div>
 ==4. When.==
 When text
+
+<div id="Who"></div>
+==5. Who.==
+Who text
