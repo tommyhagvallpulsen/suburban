@@ -15,6 +15,7 @@ An Initial Rights Offering from [https://github.com/se37301/suburban].
 
 
 ==i. Abstract.==
+Some initial abstract text
 
 ==ii. Contents==
 
