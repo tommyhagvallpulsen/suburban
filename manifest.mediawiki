@@ -11,11 +11,11 @@
 </pre>
 
 =Suburban to the rescue.=
-An Initial Rights Offering from [https://github.com/se37301/suburban].
+ Suburban is a Distributed Open Source framework for Societies and and a contract to mankind [https://github.com/se37301/suburban].
 
 
 ==i. Abstract.==
-Defining new Focus Areas and the Structure needed for any Suburban area in relation to its States , Societies and Individuals Suburban is a Distributed Open Source framework for mankind
+Defining new Focus Areas and the Structure needed for any Suburban area in relation to its States , Societies and Individuals.
 
 ==ii. Contents==
 
