@@ -5,7 +5,7 @@
 ------------  |------------  |
 A|01 - Living conditions|
 B|02 - Abilities|
-C|03- Welfare|
+C|03 - Welfare|
 D|04 - Diversities|
 
 ### Level 2
