@@ -10,7 +10,7 @@ https://github.com/se37301/suburban/blob/master/FocusAreas.md
 ### Summary of Suburban
 A - Living conditions | B - Abilities  |  C - Welfare  |  D - Diversities  |
 ------------  |  ------------  |  ------------  |  ------------  |
-01 - Safety | 01 - Education | 01 - Health | 01 - Values Morality Ethics| 01 - Education | 01 - Health |
+01 - Safety | 01 - Education | 01 - Health | 01 - Values| 01 - Education | 01 - Health |
 02 - Security | 02 - Services | 02 - Economy |02 - Age|
 03 - Justice | 03 - Function | 03 - Employment |03 - Religion|
 04 - Liberty of Speech | 04 - Infrastructure | 04 - Knowledge |04 - Culture|
@@ -18,6 +18,8 @@ A - Living conditions | B - Abilities  |  C - Welfare  |  D - Diversities  |
 06 - Environment |   |   |06 - Language|
  |  |   |   |07 - Etnicity|
  |  |   |   |08 - Sexuality|
+ |  |   |   |09 - Morality|
+ |  |   |   |10 - Ethics|
 
 ### What
 - Level 1 - The Focus Areas
