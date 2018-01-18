@@ -7,7 +7,7 @@ Suburban is a Distributed Open Source framework for mankind
 
 https://github.com/se37301/suburban/blob/master/FocusAreas.md
 
-### Summary of Suburban
+### Summary of Suburban - 4 Areas
 A - Living conditions | B - Abilities  |  C - Welfare  |  D - Diversities  |
 ------------  |  ------------  |  ------------  |  ------------  |
 01 - Safety | 01 - Education | 01 - Health | 01 - Values| 01 - Education | 01 - Health |
@@ -22,7 +22,7 @@ A - Living conditions | B - Abilities  |  C - Welfare  |  D - Diversities  |
  |  |   |   |10 - Ethics|
 
 ### What
-- Level 1 - The Focus Areas
+- Level 1 - The Focus Areas and Area Types
 - Level 2 - The Structure
 - Level 3 - Shared Knowledge
 ![Image of Suburban Focus Areas](https://github.com/se37301/suburban/blob/master/Docs/PNGs/F00.%20Focus%20Areas%20-%20Simplified.png)
