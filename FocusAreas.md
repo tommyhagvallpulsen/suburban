@@ -1,5 +1,5 @@
 
-### Level 1
+### Levels
 
 | |Focus Areas  |
 ------------  |------------  |
@@ -8,7 +8,7 @@ B|02 - Abilities|
 C|03 - Welfare|
 D|04 - Diversities|
 
-### Level 2
+### Level 1
 A - Living conditions |
 ------------  |
 01 - Safety|
