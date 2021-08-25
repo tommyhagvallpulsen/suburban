@@ -46,7 +46,7 @@ A - Living conditions | B - Abilities  |  C - Welfare  |  D - Diversities  |
 ![Image of Suburban Focus Areas](https://github.com/se37301/suburban/blob/master/Docs/PNGs/F001.%20Focus%20Areas%20-%20Detailed.png)
 
 ### Why
-- Make any Suburban area great again
+- Make any area better
 - More Peaceful
 - More Humanistic
 - More Balancing opposite forces
@@ -62,7 +62,7 @@ A - Living conditions | B - Abilities  |  C - Welfare  |  D - Diversities  |
 
 
 ### Who
-- Tommy Hägvall - Vallentuna - Sweden
+- Tommy Hägvall - Täby - Sweden
 - You ? - Please place Pull-request for changes 
 - To be open sourced ... and open for co-creation and innovative thinking
 
